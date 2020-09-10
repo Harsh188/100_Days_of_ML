@@ -1,13 +1,14 @@
-<<<<<<< HEAD
-# 100 Days of ML
-=======
+
 # 100_Days_of_ML
 <img alt="GitHub" src="https://img.shields.io/github/license/Harsh188/100_Days_of_ML"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Harsh188/100_Days_of_ML">
->>>>>>> 6e932630857ee3c3705c7f1b86a629d504b2f9dd
 
 Daily log to track my progress on the 100 days of ML code challenge.
 
-<h4>Day 1 [09/09/20]: Multivariate Linear Regression</h4>
+## Description
+100 Day ML Challenge to learn and implement ML/DL concepts ranging from the basics to more advanced state of the art models.
+
+## Daily Logs
+<h3>Day 1 [09/09/20]: Multivariate Linear Regression</h4>
 <ul>
 	<li>Started <a href="">Machine Learning by Stanford University</a> course on Coursera</li>
 	<li>Utilized TensorFlow tensors for matrix multiplication</li>
