@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 # 100 Days of ML
+=======
+# 100_Days_of_ML
+<img alt="GitHub" src="https://img.shields.io/github/license/Harsh188/100_Days_of_ML"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Harsh188/100_Days_of_ML">
+>>>>>>> 6e932630857ee3c3705c7f1b86a629d504b2f9dd
 
 Daily log to track my progress on the 100 days of ML code challenge.
 
