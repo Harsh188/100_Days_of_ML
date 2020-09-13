@@ -1,5 +1,5 @@
 
-# 100_Days_of_ML
+# 100 Days of ML
 <img alt="GitHub" src="https://img.shields.io/github/license/Harsh188/100_Days_of_ML"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Harsh188/100_Days_of_ML">
 
 Daily log to track my progress on the 100 days of ML code challenge.
