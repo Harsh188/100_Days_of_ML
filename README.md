@@ -1,5 +1,5 @@
 
-# 100 Days of ML
+# 100_Days_of_ML
 <img alt="GitHub" src="https://img.shields.io/github/license/Harsh188/100_Days_of_ML"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Harsh188/100_Days_of_ML">
 
 Daily log to track my progress on the 100 days of ML code challenge.
@@ -19,4 +19,10 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<li>Used the `Seoul Bike Sharing Demand` dataset found at <a href="https://archive.ics.uci.edu/ml/datasets.php?format=&task=reg&att=&area=&numAtt=&numIns=&type=&sort=nameUp&view=table">UCI Machine Learning Repository</a> for multivariate regression</li>
 	<li>Utilized the Keras library through TensorFlow</li>
 	<li>Used a Sequential model with two hidden layers</li>
+</ul>
+<h3>Day 3 [13/09/20]: Modifying Regression Model</h3>
+<ul>
+	<li>Building a custom hand tuned regression model based on previous results.</li>
+	<li>Trained using basic matrix operations and adam optimizer</li>
+
 </ul>
