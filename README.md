@@ -20,9 +20,8 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<li>Utilized the Keras library through TensorFlow</li>
 	<li>Used a Sequential model with two hidden layers</li>
 </ul>
-<h3>Day 3 [13/09/20]: Modifying Regression Model</h3>
+<h3>Day 3 [13/09/20]: Custom Regression Model</h3>
 <ul>
 	<li>Building a custom hand tuned regression model based on previous results.</li>
 	<li>Trained using basic matrix operations and adam optimizer</li>
-
 </ul>
