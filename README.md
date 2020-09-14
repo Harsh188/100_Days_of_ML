@@ -24,5 +24,11 @@ Daily log to track my progress on the 100 days of ML code challenge.
 <ul>
 	<li>Building a custom hand tuned regression model based on previous results.</li>
 	<li>Trained using basic matrix operations and adam optimizer.</li>
-	<li>Watched Stanford's CS229 lecture on Linear <a href="https://www.youtube.com/watch?v=4b4MUYve_U8&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=2">Regression and Gradient Decent</a>.</li>
+	<li>Watched Stanford's CS229 lecture on <a href="https://www.youtube.com/watch?v=4b4MUYve_U8&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=2">Linear Regression and Gradient Decent</a> taught by Andrew Ng.</li>
+</ul>
+<h3>Day 4 [14/09/2020]: Generative Learning Algorithms</h3>
+<ul>
+	<li>Watched Stanford's CS299 lecture on <a href="https://www.youtube.com/watch?v=nt63k3bfXS0&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=5">GDA & Naive Bayes</a></li>
+	
+
 </ul>
