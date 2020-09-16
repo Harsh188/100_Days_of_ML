@@ -16,7 +16,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 </ul>
 <h3>Day 2 [10/09/20]: Applying Regression</h3>
 <ul>
-	<li>Used the <script type="text/markdown">`Seoul Bike Sharing Demand`</script> dataset found at <a href="https://archive.ics.uci.edu/ml/datasets.php?format=&task=reg&att=&area=&numAtt=&numIns=&type=&sort=nameUp&view=table">UCI Machine Learning Repository</a> for multivariate regression</li>
+	<li>Used the Seoul Bike Sharing Demand dataset found at <a href="https://archive.ics.uci.edu/ml/datasets.php?format=&task=reg&att=&area=&numAtt=&numIns=&type=&sort=nameUp&view=table">UCI Machine Learning Repository</a> for multivariate regression</li>
 	<li>Utilized the Keras library through TensorFlow</li>
 	<li>Used a Sequential model with two hidden layers</li>
 </ul>
@@ -41,4 +41,9 @@ Daily log to track my progress on the 100 days of ML code challenge.
 			<li><a href="https://www.youtube.com/watch?v=H3EjCKtlVog">Gaussian Naive Bayes, Clearly Explained!!!</a></li>
 		</ul>
 	</li>
+</ul>
+<h3>Day 6 [16/09/20]: Naive Bayes Project</h3>
+<ul>
+	<li>Finished the Iris Flower Classifier using Naive Bayes</li>
+	<li>Reached an accuracy of about 96%</li>
 </ul>
