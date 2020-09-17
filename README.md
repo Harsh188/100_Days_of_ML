@@ -47,3 +47,12 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<li>Finished the Iris Flower Classifier using Naive Bayes</li>
 	<li>Reached an accuracy of about 96%</li>
 </ul>
+<h3>Day 7 [17/09/20]: Support Vector Machines</h3>
+<ul>
+	<li>Learned a lot about Support Vector Machines by watching several videos on youtube such as</li>
+	<ul>
+		<li>Stanford's CS299 lecture on <a href="https://youtu.be/lDwow4aOrtg?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&t=2788">Support Vector Machines</a></li>
+		<li><a href="https://www.youtube.com/watch?v=efR1C6CvhmE">Support Vector Machines, Clearly Explained!!!</a></li>
+		<li>MIT 6.034 Artificial Intelligence lecture 16 on <a href="https://www.youtube.com/watch?v=_PwhiWxHK8o&t=1s">Learning: Support Vector Machines</a></li>
+	</ul>
+</ul>
