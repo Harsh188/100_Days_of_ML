@@ -56,3 +56,9 @@ Daily log to track my progress on the 100 days of ML code challenge.
 		<li>MIT 6.034 Artificial Intelligence lecture 16 on <a href="https://www.youtube.com/watch?v=_PwhiWxHK8o&t=1s">Learning: Support Vector Machines</a></li>
 	</ul>
 </ul>
+<h3>Day 8 [18/09/20]: SVM Project</h3>
+<ul>
+	<li>Started a project on classifying <a href="https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)">Breast Cancer Tumors </a>using SVM</li>
+	<li>Followed a <a href="https://www.youtube.com/watch?v=mA5nwGoRAOo">tutorial</a> on youtube by Sentdex on SVM</li>
+	<li>Recived and accuracy in the range of around 97%</li>
+</ul>
