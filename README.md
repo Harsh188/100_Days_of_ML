@@ -60,5 +60,10 @@ Daily log to track my progress on the 100 days of ML code challenge.
 <ul>
 	<li>Started a project on classifying <a href="https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)">Breast Cancer Tumors </a>using SVM</li>
 	<li>Followed a <a href="https://www.youtube.com/watch?v=mA5nwGoRAOo">tutorial</a> on youtube by Sentdex on SVM</li>
-	<li>Recived and accuracy in the range of around 97%</li>
+	<li>Received and accuracy in the range of around 97%</li>
+</ul>
+<h3>Day 9 [19/09/20]: Classification</h3>
+<ul>
+	<li>Going back to the basics and approaching classification from a mathematical standpoint</li>
+	<li></li>
 </ul>
