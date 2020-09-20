@@ -65,5 +65,5 @@ Daily log to track my progress on the 100 days of ML code challenge.
 <h3>Day 9 [19/09/20]: Classification</h3>
 <ul>
 	<li>Going back to the basics and approaching classification from a mathematical standpoint</li>
-	<li></li>
+	<li>Completed the Classification and Representation section in the <a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a> course by Stanford on coursera</li>
 </ul>
