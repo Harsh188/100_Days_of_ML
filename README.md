@@ -67,3 +67,9 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<li>Going back to the basics and approaching classification from a mathematical standpoint</li>
 	<li>Completed the Classification and Representation section in the <a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a> course by Stanford on coursera</li>
 </ul>
+<h3>Day 10 [20/09/20] Kernels</h3>
+<ul>
+	<li>Watched Stanford's CS299 lecture on <a href="https://www.youtube.com/watch?v=8NYoQiRANpg&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=8&t=0s">Kernels</a></li>
+	<li>Learned the representer theorem</li>
+	<li></li>
+</ul>
