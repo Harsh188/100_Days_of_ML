@@ -73,3 +73,9 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<li>Learned the representer theorem</li>
 	<li></li>
 </ul>
+<h3>Day 11 [21/09/20] Kernels continued.</h3>
+<ul>
+	<li>Finished the Stanford CS299 lecture on <a href="https://www.youtube.com/watch?v=8NYoQiRANpg&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=8&t=0s">Kernels</a></li>
+	<li>Learned about the complexity differnece when using inner product</li>
+	<!-- <li></li> -->
+</ul>
