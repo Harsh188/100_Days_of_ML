@@ -90,6 +90,11 @@ Daily log to track my progress on the 100 days of ML code challenge.
 </ul>
 <h3>Day 13 [24/09/2020] Cross-Validation</h3>
 <ul>
-	<li>Continued the CS299 lecture on Cross Validation.</li>
-	<li></li>
+	<li>Finished watching the CS299 lecture on Cross Validation.</li>
+	<li>Learned about</li>
+	<ul>
+		<li>How and when to use k-fold cross validation.</li>
+		<li>How and when to use leave-out-out cross validation.</li>
+		<li>Feature selection.</li>
+	</ul>
 </ul>
