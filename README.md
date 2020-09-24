@@ -87,5 +87,9 @@ Daily log to track my progress on the 100 days of ML code challenge.
 		<li>Overfitting and underfitting in terms of bias and variance.</li>
 		<li>The regularization technique.</li>
 	</ul>
-	
+</ul>
+<h3>Day 13 [24/09/2020] Cross-Validation</h3>
+<ul>
+	<li>Continued the CS299 lecture on Cross Validation.</li>
+	<li></li>
 </ul>
