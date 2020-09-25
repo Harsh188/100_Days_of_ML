@@ -98,3 +98,11 @@ Daily log to track my progress on the 100 days of ML code challenge.
 		<li>Feature selection.</li>
 	</ul>
 </ul>
+<h3>Day 14 [25/09/2020] Approx/Estimation Error</h3>
+<ul>
+	<li>Watched Stanford's CS299 lecture on <a href="https://www.youtube.com/watch?v=iVOxMcumR4A&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=9">Approx/Estimation Error</a>.</li>
+	<li>Learned about</li>
+	<ul>
+		<li></li>
+	</ul>
+</ul>
