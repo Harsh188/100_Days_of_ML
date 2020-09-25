@@ -103,6 +103,10 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<li>Watched Stanford's CS299 lecture on <a href="https://www.youtube.com/watch?v=iVOxMcumR4A&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=9">Approx/Estimation Error</a>.</li>
 	<li>Learned about</li>
 	<ul>
-		<li></li>
+		<li>Sampling Distributions</li>
+		<li>Parameter View</li>
+		<li>Bayes Error</li>
+		<li>Approximation Error</li>
+		<li>Estimation Error</li>
 	</ul>
 </ul>
