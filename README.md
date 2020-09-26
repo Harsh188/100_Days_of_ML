@@ -113,5 +113,5 @@ Daily log to track my progress on the 100 days of ML code challenge.
 <li>Day 15 [26/09/2020] Emprical Risk Minimization</li>
 <ul>
 	<li>Finished up CS299 lecture on <a href="https://www.youtube.com/watch?v=iVOxMcumR4A&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=9&t=2680s">ERM.</a></li>
-	<li></li>
+	<li>Uniform convergence</li>
 </ul>
