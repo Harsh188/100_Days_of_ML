@@ -115,3 +115,8 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<li>Finished up CS299 lecture on <a href="https://www.youtube.com/watch?v=iVOxMcumR4A&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=9&t=2680s">ERM.</a></li>
 	<li>Uniform convergence</li>
 </ul>
+<h3>Day 16 [27/09/2020] Decision Trees</h3>
+<ul>
+	<li>Started watching Stanford's CS299 lecture on <a href="https://www.youtube.com/watch?v=wr9gUr-eWdA&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=10">Decision Trees and Ensemble Methods.</a></li>
+	<li></li>
+</ul>
