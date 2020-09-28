@@ -124,5 +124,8 @@ Daily log to track my progress on the 100 days of ML code challenge.
 <h3>Day 17 [28/09/2020] Decision Trees Cont.</h3>
 <ul>
 	<li>Continued Stanford's CS299 lecture on <a href="https://www.youtube.com/watch?v=wr9gUr-eWdA&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=10">Decision Trees and Ensemble Methods.</a></li>
-	<li>Regression Trees</li>
+	<li>Regression Trees.</li>
+	<li>Regularization of Decision Trees.</li>
+	<li>Runtime for Decision Trees.</li>
+	<li>Advantages and disadvantages of decision trees.</li>
 </ul>
