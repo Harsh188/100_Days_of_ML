@@ -121,3 +121,8 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<li>Missclassificaiton and its issues with predicting the differences in certain cases.</li>
 	<li>How cross-entropy tackles the downfall of missclassificaiton loss.</li>
 </ul>
+<h3>Day 17 [28/09/2020] Decision Trees Cont.</h3>
+<ul>
+	<li>Continued Stanford's CS299 lecture on <a href="https://www.youtube.com/watch?v=wr9gUr-eWdA&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=10">Decision Trees and Ensemble Methods.</a></li>
+	<li>Regression Trees</li>
+</ul>
