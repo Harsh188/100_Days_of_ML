@@ -131,5 +131,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 </ul>
 <h3>Day 18 [29/09/2020] Ensemble Methods</h3>
 <ul>
-	<li></li>
+	<li>Finished up Stanford's CS299 lecture on <a href="https://www.youtube.com/watch?v=wr9gUr-eWdA&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=10">Decision Trees and Ensemble Methods.</a></li>
+	<li>How to combine differnt learning algorithms and average their results.</li>
+	<li>How to utilize different training sets.</li>
 </ul>
