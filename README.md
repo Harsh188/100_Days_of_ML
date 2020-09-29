@@ -129,3 +129,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<li>Runtime for Decision Trees.</li>
 	<li>Advantages and disadvantages of decision trees.</li>
 </ul>
+<h3>Day 18 [29/09/2020] Ensemble Methods</h3>
+<ul>
+	<li></li>
+</ul>
