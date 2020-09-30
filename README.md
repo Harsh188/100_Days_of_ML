@@ -135,3 +135,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<li>How to combine differnt learning algorithms and average their results.</li>
 	<li>How to utilize different training sets.</li>
 </ul>
+<h3>Day 19 [30/09/2020] Decision Trees Mini Project</h3>
+<ul>
+	<li>Implemented decision trees on the iris dataset from UC Irvine Machine Learning Repository.</li>
+</ul>
