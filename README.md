@@ -138,4 +138,5 @@ Daily log to track my progress on the 100 days of ML code challenge.
 <h3>Day 19 [30/09/2020] Decision Trees Mini Project</h3>
 <ul>
 	<li>Implemented decision trees on the iris dataset from UC Irvine Machine Learning Repository.</li>
+	<li>Recieved and accuracy of ~97%.</li>
 </ul>
