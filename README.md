@@ -140,3 +140,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<li>Implemented decision trees on the iris dataset from UC Irvine Machine Learning Repository.</li>
 	<li>Recieved and accuracy of ~97%.</li>
 </ul>
+<h3>Day 20 [01/09/2020] Neural Networks</h3>
+<ul>
+	<li></li>
+</ul>
