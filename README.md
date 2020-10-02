@@ -152,5 +152,11 @@ Daily log to track my progress on the 100 days of ML code challenge.
 </ul>
 <h3>Day 21 [02/09/2020] Neural Networks cont.</h3>
 <ul>
-	<li></li>
+	<li>Continued Stanford's CS299 lecture on <a href="https://www.youtube.com/watch?v=MfIjxPh6Pys&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=11&t=1854s">Introduction to Neural Networks.</a></li>
+	<li>Learned about:</li>
+	<ul>
+		<li>End to end learning</li>
+		<li>Black box models</li>
+		<li>Propogation equations</li>
+	</ul>
 </ul>
