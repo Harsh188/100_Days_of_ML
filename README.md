@@ -142,5 +142,15 @@ Daily log to track my progress on the 100 days of ML code challenge.
 </ul>
 <h3>Day 20 [01/09/2020] Neural Networks</h3>
 <ul>
+	<li>Started Stanford's CS299 lecture on <a href="https://www.youtube.com/watch?v=MfIjxPh6Pys&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=11&t=1854s">Introduction to Neural Networks.</a></li>
+	<li>Learned about:</li>
+	<ul>
+		<li>Equational form of neurons and models.</li>
+		<li>Neural networks as a form of linear regression.</li>
+		<li>Softmax</li>
+	</ul>
+</ul>
+<h3>Day 21 [02/09/2020] Neural Networks cont.</h3>
+<ul>
 	<li></li>
 </ul>
