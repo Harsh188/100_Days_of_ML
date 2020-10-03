@@ -162,5 +162,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 </ul>
 <h3>Day 22 [02/10/2020] Dense Neural Network Mini Project</h3>
 <ul>
-	<li></li>
+	<li>Trained neural network model to classify images of clothing.</li>
+	<li>Utilized Fashion MNIST dataset.</li>
+	<li>Followed the <a href="https://www.tensorflow.org/tutorials/keras/classification">TensorFlow guide.</a></li>
 </ul>
