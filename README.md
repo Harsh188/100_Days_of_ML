@@ -169,5 +169,6 @@ Daily log to track my progress on the 100 days of ML code challenge.
 <h3>Day 23 [02/11/2020] Backprop</h3>
 <ul>
 	<li>Started Stanford's CS299 lecture on <a href="https://www.youtube.com/watch?v=zUazLXZZA2U&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=12&t=1s">Backprop & Improving Neural Networks.</a></li>
-	
+	<li>Learned how to improved Neural Networks.</li>
+	<li>Vanishing/Exploding Gradient problem.</li>
 </ul>
