@@ -160,15 +160,19 @@ Daily log to track my progress on the 100 days of ML code challenge.
 		<li>Propogation equations</li>
 	</ul>
 </ul>
-<h3>Day 22 [02/10/2020] Dense Neural Network Mini Project</h3>
+<h3>Day 22 [03/10/2020] Dense Neural Network Mini Project</h3>
 <ul>
 	<li>Trained neural network model to classify images of clothing.</li>
 	<li>Utilized Fashion MNIST dataset.</li>
 	<li>Followed the <a href="https://www.tensorflow.org/tutorials/keras/classification">TensorFlow guide.</a></li>
 </ul>
-<h3>Day 23 [02/11/2020] Backprop</h3>
+<h3>Day 23 [04/10/2020] Backprop</h3>
 <ul>
 	<li>Started Stanford's CS299 lecture on <a href="https://www.youtube.com/watch?v=zUazLXZZA2U&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=12&t=1s">Backprop & Improving Neural Networks.</a></li>
 	<li>Learned how to improved Neural Networks.</li>
 	<li>Vanishing/Exploding Gradient problem.</li>
+</ul>
+<h3>Day 24 [05/10/2020] Debuggind ML Models</h3>
+<ul>
+	<li>Started Stanford's CS299 lecture on <a href="https://www.youtube.com/watch?v=ORrStCArmP4&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=13">Debugging ML Models and Error Analysis</a></li>
 </ul>
