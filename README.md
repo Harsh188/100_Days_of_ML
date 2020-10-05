@@ -172,7 +172,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<li>Learned how to improved Neural Networks.</li>
 	<li>Vanishing/Exploding Gradient problem.</li>
 </ul>
-<h3>Day 24 [05/10/2020] Debuggind ML Models</h3>
+<h3>Day 24 [05/10/2020] Debugging ML Models</h3>
 <ul>
 	<li>Started Stanford's CS299 lecture on <a href="https://www.youtube.com/watch?v=ORrStCArmP4&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=13">Debugging ML Models and Error Analysis</a></li>
 	<li>Methos to fixing the learning algorithm</li>
