@@ -182,4 +182,5 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<li>Week 4 of <a href="">Machine Learning</a> course on coursera.</li>
 	<li>Non-linear Hypotheses.</li>
 	<li>Neurons and the Brain.</li>
+	<li>Model representation.</li>
 </ul>
