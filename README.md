@@ -174,6 +174,12 @@ Daily log to track my progress on the 100 days of ML code challenge.
 </ul>
 <h3>Day 24 [05/10/2020] Debugging ML Models</h3>
 <ul>
-	<li>Started Stanford's CS299 lecture on <a href="https://www.youtube.com/watch?v=ORrStCArmP4&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=13">Debugging ML Models and Error Analysis</a></li>
-	<li>Methos to fixing the learning algorithm</li>
+	<li>Started Stanford's CS299 lecture on <a href="https://www.youtube.com/watch?v=ORrStCArmP4&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=13">Debugging ML Models and Error Analysis.</a></li>
+	<li>Methos to fixing the learning algorithm.</li>
+</ul>
+<h3>Day 25 [06/10/2020] Neural Networks: Representation</h3>
+<ul>
+	<li>Week 4 of <a href="">Machine Learning</a> course on coursera.</li>
+	<li>Non-linear Hypotheses.</li>
+	<li>Neurons and the Brain.</li>
 </ul>
