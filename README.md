@@ -188,4 +188,5 @@ Daily log to track my progress on the 100 days of ML code challenge.
 <ul>
 	<li>Continued Week 4 of <a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a> course on coursera.</li>
 	<li>Sentiment analysis neural network classifier.</li>
+	<li>Utilized the IMDB dataset.</li>
 </ul>
