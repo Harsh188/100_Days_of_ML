@@ -179,12 +179,13 @@ Daily log to track my progress on the 100 days of ML code challenge.
 </ul>
 <h3>Day 25 [06/10/2020] Neural Networks: Representation</h3>
 <ul>
-	<li>Week 4 of <a href="">Machine Learning</a> course on coursera.</li>
+	<li>Week 4 of <a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a> course on coursera.</li>
 	<li>Non-linear Hypotheses.</li>
 	<li>Neurons and the Brain.</li>
 	<li>Model representation.</li>
 </ul>
-<h3>Day 26 [07/10/20] </h3>
+<h3>Day 26 [07/10/20] Neural Networks Mini Project 2</h3>
 <ul>
-	<li></li>
+	<li>Continued Week 4 of <a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a> course on coursera.</li>
+	<li>Sentiment analysis neural network classifier.</li>
 </ul>
