@@ -184,3 +184,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<li>Neurons and the Brain.</li>
 	<li>Model representation.</li>
 </ul>
+<h3>Day 26 [07/10/20] </h3>
+<ul>
+	<li></li>
+</ul>
