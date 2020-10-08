@@ -192,5 +192,6 @@ Daily log to track my progress on the 100 days of ML code challenge.
 </ul>
 <h3>Day 27 [08/10/20] Expectation-Maximization Algorithms</h3>
 <ul>
-	
+	<li>Unsupervised learning.</li>
+	<li>Started Stanford's CS299 lecture on <a href="https://www.youtube.com/watch?v=rVfZHWTwXSA&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=14">Expectation-Maximization Algorithms.</a></li>
 </ul>
