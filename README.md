@@ -101,7 +101,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 <h3>Day 14 [25/09/2020] Approx/Estimation Error</h3>
 <ul>
 	<li>Watched Stanford's CS299 lecture on <a href="https://www.youtube.com/watch?v=iVOxMcumR4A&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=9">Approx/Estimation Error</a>.</li>
-	<li>Learned about</li>
+	<li>Learned about:</li>
 	<ul>
 		<li>Sampling Distributions</li>
 		<li>Parameter View</li>
@@ -189,4 +189,8 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<li>Continued Week 4 of <a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a> course on coursera.</li>
 	<li>Sentiment analysis neural network classifier.</li>
 	<li>Utilized the IMDB dataset.</li>
+</ul>
+<h3>Day 27 [08/10/20] Expectation-Maximization Algorithms</h3>
+<ul>
+	
 </ul>
