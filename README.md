@@ -16,7 +16,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 </ul>
 <h3>Day 2 [10/09/20]: Applying Regression</h3>
 <ul>
-	<li>Used the Seoul Bike Sharing Demand dataset found at <a href="https://archive.ics.uci.edu/ml/datasets.php?format=&task=reg&att=&area=&numAtt=&numIns=&type=&sort=nameUp&view=table">UCI Machine Learning Repository</a> for multivariate regressio.n</li>
+	<li>Used the Seoul Bike Sharing Demand dataset found at <a href="https://archive.ics.uci.edu/ml/datasets.php?format=&task=reg&att=&area=&numAtt=&numIns=&type=&sort=nameUp&view=table">UCI Machine Learning Repository</a> for multivariate regression</li>
 	<li>Utilized the Keras library through TensorFlow.</li>
 	<li>Used a Sequential model with two hidden layers.</li>
 </ul>
@@ -76,7 +76,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 <h3>Day 11 [21/09/20] Kernels continued.</h3>
 <ul>
 	<li>Finished the Stanford CS299 lecture on <a href="https://www.youtube.com/watch?v=8NYoQiRANpg&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=8&t=0s">Kernels.</a></li>
-	<li>Learned about the complexity differnece when using inner product.</li>
+	<li>Learned about the complexity difference when using inner product.</li>
 	<!-- <li></li> -->
 </ul>
 <h3>Day 12 [23/09/20] Bias and Variance</h3>
@@ -84,7 +84,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<li>Watched Stanford's CS299 lecture on <a href="https://www.youtube.com/watch?v=rjbkWSTjHzM&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=8">Data Splits, Models & Cross-Validation.</a></li>
 	<li>Learned about</li>
 	<ul>
-		<li>Overfitting and underfitting in terms of bias and variance.</li>
+		<li>Over fitting and under fitting in terms of bias and variance.</li>
 		<li>The regularization technique.</li>
 	</ul>
 </ul>
@@ -132,13 +132,13 @@ Daily log to track my progress on the 100 days of ML code challenge.
 <h3>Day 18 [29/09/2020] Ensemble Methods</h3>
 <ul>
 	<li>Finished up Stanford's CS299 lecture on <a href="https://www.youtube.com/watch?v=wr9gUr-eWdA&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=10">Decision Trees and Ensemble Methods.</a></li>
-	<li>How to combine differnt learning algorithms and average their results.</li>
+	<li>How to combine different learning algorithms and average their results.</li>
 	<li>How to utilize different training sets.</li>
 </ul>
 <h3>Day 19 [30/09/2020] Decision Trees Mini Project</h3>
 <ul>
 	<li>Implemented decision trees on the iris dataset from UC Irvine Machine Learning Repository.</li>
-	<li>Recieved and accuracy of ~97%.</li>
+	<li>Received and accuracy of ~97%.</li>
 </ul>
 <h3>Day 20 [01/09/2020] Neural Networks</h3>
 <ul>
@@ -157,7 +157,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<ul>
 		<li>End to end learning</li>
 		<li>Black box models</li>
-		<li>Propogation equations</li>
+		<li>Propagation equations</li>
 	</ul>
 </ul>
 <h3>Day 22 [03/10/2020] Dense Neural Network Mini Project</h3>
@@ -175,7 +175,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 <h3>Day 24 [05/10/2020] Debugging ML Models</h3>
 <ul>
 	<li>Started Stanford's CS299 lecture on <a href="https://www.youtube.com/watch?v=ORrStCArmP4&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=13">Debugging ML Models and Error Analysis.</a></li>
-	<li>Methos to fixing the learning algorithm.</li>
+	<li>Methods to fixing the learning algorithm.</li>
 </ul>
 <h3>Day 25 [06/10/2020] Neural Networks: Representation</h3>
 <ul>
@@ -199,5 +199,5 @@ Daily log to track my progress on the 100 days of ML code challenge.
 <ul>
 	<li>Continued Stanford's CS299 lecture on <a href="https://www.youtube.com/watch?v=rVfZHWTwXSA&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=14">Expectation-Maximization Algorithms.</a></li>
 	<li>The math behind K-means clustering.</li>
-	<li></li>
+	<li>Implemented K-Means using scikit learn.</li>
 </ul>
