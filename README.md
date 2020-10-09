@@ -195,3 +195,9 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<li>Unsupervised learning.</li>
 	<li>Started Stanford's CS299 lecture on <a href="https://www.youtube.com/watch?v=rVfZHWTwXSA&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=14">Expectation-Maximization Algorithms.</a></li>
 </ul>
+<h3>Day 28 [09/10/20] K-Means Clustering</h3>
+<ul>
+	<li>Continued Stanford's CS299 lecture on <a href="https://www.youtube.com/watch?v=rVfZHWTwXSA&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=14">Expectation-Maximization Algorithms.</a></li>
+	<li>The math behind K-means clustering.</li>
+	<li></li>
+</ul>
