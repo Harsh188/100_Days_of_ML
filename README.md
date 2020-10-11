@@ -203,5 +203,6 @@ Daily log to track my progress on the 100 days of ML code challenge.
 </ul>
 <h3>Day 29 [11/10/20] K-Means Mini Project</h3>
 <ul>
-	
+	<li>Generated a random dataset for clustering.</li>
+	<li></li>
 </ul>
