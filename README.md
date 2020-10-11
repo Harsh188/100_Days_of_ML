@@ -206,3 +206,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<li>Generated a random dataset for clustering.</li>
 	<li>Used scikit learn K-Means.</li>
 </ul>
+<h3>Day 30 [12/10/20] Convolutional Neural Networks</h3>
+<ul>
+	
+</ul>
