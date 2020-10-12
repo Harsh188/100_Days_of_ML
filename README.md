@@ -1,4 +1,3 @@
-
 # 100 Days of ML
 <img alt="GitHub" src="https://img.shields.io/github/license/Harsh188/100_Days_of_ML"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Harsh188/100_Days_of_ML">
 
@@ -208,5 +207,9 @@ Daily log to track my progress on the 100 days of ML code challenge.
 </ul>
 <h3>Day 30 [12/10/20] Convolutional Neural Networks</h3>
 <ul>
-	
+	<li>Some of the things I learned today:</li>
+	<ul>
+		<li>What are convolutional neural networks?</li>
+		<li>What is the function of the CNN kernel?</li>
+	</ul>
 </ul>
