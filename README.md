@@ -213,3 +213,8 @@ Daily log to track my progress on the 100 days of ML code challenge.
 		<li>What is the function of the CNN kernel?</li>
 	</ul>
 </ul>
+<h3>Day 31 [13/10/20] ConvNet Cont.</h3>
+<ul>
+	<li>Continued to read up on ConvNet.</li>
+	<li>Learned about the max pooling layer.</li>
+</ul>
