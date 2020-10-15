@@ -218,3 +218,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<li>Continued to read up on ConvNet.</li>
 	<li>Learned about the max pooling layer.</li>
 </ul>
+<h3>Day 31 [15/10/20] CNN Mini-Project</h3>
+<ul>
+	<li></li>
+</ul>
