@@ -220,5 +220,6 @@ Daily log to track my progress on the 100 days of ML code challenge.
 </ul>
 <h3>Day 31 [15/10/20] CNN Mini-Project</h3>
 <ul>
-	<li></li>
+	<li>Utilized the CIFAR10 dataset.</li>
+	<li>Followed TensorFlow's Convolutional Neural Network tutorial.</li>
 </ul>
