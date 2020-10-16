@@ -223,7 +223,11 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<li>Utilized the CIFAR10 dataset.</li>
 	<li>Followed TensorFlow's Convolutional Neural Network tutorial.</li>
 </ul>
-<h3>Day 32 [16/10/20] Recurrent Neural Netowrks</h3>
+<h3>Day 32 [16/10/20] Recurrent Neural Networks</h3>
 <ul>
-	
+	<li>Some of the things I learned today:</li>
+	<ul>
+		<li>What are recurrent neural networks?</li>
+		<li>What makes RNNs more powerful than other architectures?</li>
+	</ul>
 </ul>
