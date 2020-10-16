@@ -223,3 +223,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<li>Utilized the CIFAR10 dataset.</li>
 	<li>Followed TensorFlow's Convolutional Neural Network tutorial.</li>
 </ul>
+<h3>Day 32 [16/10/20] Recurrent Neural Netowrks</h3>
+<ul>
+	
+</ul>
