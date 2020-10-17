@@ -231,3 +231,8 @@ Daily log to track my progress on the 100 days of ML code challenge.
 		<li>What makes RNNs more powerful than other architectures?</li>
 	</ul>
 </ul>
+<h3>Day 33 [17/10/20] RNNs Cont.</h3>
+<ul>
+	<li>Learned about the different RNNs architectures.</li>
+	<li></li>
+</ul>
