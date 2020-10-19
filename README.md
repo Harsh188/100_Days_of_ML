@@ -236,3 +236,8 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<li>Learned about the different RNNs architectures.</li>
 	<li></li>
 </ul>
+<h3>Day 34 [19/10/20] RNN Mini Project</h3>
+<ul>
+	<li>Implemented RNN using keras.</li>
+	<li>Trained it on the MNIST dataset.</li>
+</ul>
