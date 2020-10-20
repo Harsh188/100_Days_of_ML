@@ -234,7 +234,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 <h3>Day 33 [17/10/20] RNNs Cont.</h3>
 <ul>
 	<li>Learned about the different RNNs architectures.</li>
-	<li></li>
+	<li>Explored the different applications of RNNs.</li>
 </ul>
 <h3>Day 34 [19/10/20] RNN Mini Project</h3>
 <ul>
