@@ -241,3 +241,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<li>Implemented RNN using keras.</li>
 	<li>Trained it on the IMDB reviews dataset.</li>
 </ul>
+<h3>Day 34 [20/10/20] Deep Learning PC</h3>
+<ul>
+	<li></li>
+</ul>
