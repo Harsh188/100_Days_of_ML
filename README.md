@@ -250,5 +250,5 @@ Daily log to track my progress on the 100 days of ML code challenge.
 		<li>GPU: Nvidia 3080 FE</li>
 		<li>RAM: 16GB 3600MHz</li>
 	</ul>
-	<img src="images/DeepLearningPC">
+	<img src="images/DeepLearningPC.jpg">
 </ul>
