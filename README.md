@@ -243,5 +243,12 @@ Daily log to track my progress on the 100 days of ML code challenge.
 </ul>
 <h3>Day 34 [20/10/20] Deep Learning PC</h3>
 <ul>
-	<li></li>
+	<li>Built a deep learning computer to train networks.</li>
+	<li>Here are the basic specs:</li>
+	<ul>
+		<li>CPU: Ryzen 7 3800XT</li>
+		<li>GPU: Nvidia 3080 FE</li>
+		<li>RAM: 16GB 3600MHz</li>
+	</ul>
+	<img src="images/DeepLearningPC">
 </ul>
