@@ -252,3 +252,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	</ul>
 	<img src="images/DeepLearningPC.jpg">
 </ul>
+<h3>Day 35 [21/10/20] </h3>
+<ul>
+	<li></li>
+</ul>
