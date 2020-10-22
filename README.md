@@ -252,7 +252,8 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	</ul>
 	<img src="images/DeepLearningPC.jpg">
 </ul>
-<h3>Day 35 [21/10/20] </h3>
+<h3>Day 35 [21/10/20] RNN Mini Project contd.</h3>
 <ul>
-	<li></li>
+	<li>Trained the model.</li>
+	<li>Reached final accuracy of 0.855.</li>
 </ul>
