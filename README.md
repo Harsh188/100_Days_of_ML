@@ -257,7 +257,15 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<li>Trained the model.</li>
 	<li>Reached final accuracy of 0.855.</li>
 </ul>
-<h3>Day 26 [22/10/20] LSTM</h3>
+<h3>Day 36 [22/10/20] LSTM</h3>
 <ul>
-	
+	<li>Learned about:</li>
+	<ul>
+		<li>Why LSTMs were made.</li>
+		<li>How LSTMs solved issues with RNNs</li>
+	</ul>
+</ul>
+<h3>Day 37 [23/10/20] LSTM cont.</h3>
+<ul>
+	<li></li>
 </ul>
