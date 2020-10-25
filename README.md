@@ -267,5 +267,11 @@ Daily log to track my progress on the 100 days of ML code challenge.
 </ul>
 <h3>Day 37 [23/10/20] LSTM cont.</h3>
 <ul>
-	<li></li>
+	<li>Learned more about the applications of LSTMs.</li>
+	<li>Dove deep into the architecture end of LSTMs.</li>
+</ul>
+<h3>Day 38 [25/10/20] LSTM Mini Proj</h3>
+<ul>
+	<li>Utilized the <a href="https://www.kaggle.com/dgawlik/nyse">New York Stock Exchange</a> dataset on Kaggle.</li>
+
 </ul>
