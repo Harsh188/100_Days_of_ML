@@ -273,5 +273,14 @@ Daily log to track my progress on the 100 days of ML code challenge.
 <h3>Day 38 [25/10/20] LSTM Mini Proj</h3>
 <ul>
 	<li>Utilized the <a href="https://www.kaggle.com/dgawlik/nyse">New York Stock Exchange</a> dataset on Kaggle.</li>
-
+	<li>Used TensorFlow and Keras to implement the model.</li>
+</ul>
+<h3>Day 39 [26/10/20] Gated Recurrent Unit</h3>
+<ul>
+	<li>Learned:</li>	
+	<ul>
+		<li>What are GRUs?</li>
+		<li>Applications of GRUs?</li>
+		<li>GRUs vs LSTMs.</li>
+	</ul>
 </ul>
