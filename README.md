@@ -286,5 +286,6 @@ Daily log to track my progress on the 100 days of ML code challenge.
 </ul>
 <h3>Day 40 [27/10/20] GRU cont.</h3>
 <ul>
+	<li>Learned how to implement a GRU model using TensorFlow and Keras.</li>
 	
 </ul>
