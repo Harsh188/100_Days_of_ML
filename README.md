@@ -284,3 +284,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 		<li>GRUs vs LSTMs.</li>
 	</ul>
 </ul>
+<h3>Day 40 [27/10/20] GRU cont.</h3>
+<ul>
+	
+</ul>
