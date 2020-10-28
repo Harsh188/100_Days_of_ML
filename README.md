@@ -290,3 +290,12 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<li>Started on a new mini-project to put the GRUs to use.</li>
 	<li>Utilized the IMB stock dataset to predict stocks.</li>
 </ul>
+<h3>Day 41 [28/10/20] Hopfield Network</h3>
+<ul>
+	<li>Learned about:</li>
+	<ul>
+		<li>What Hopfield networks are.</li>
+		<li>How to use Hopfield networks.</li>
+		<li>How Hopfield networks improve on the RNN model.</li>
+	</ul>
+</ul>
