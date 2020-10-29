@@ -299,3 +299,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 		<li>How Hopfield networks improve on the RNN model.</li>
 	</ul>
 </ul>
+<h3>Day 42 [29/10/20] Boltzmann Machine</h3>
+<ul>
+	<li></li>
+</ul>
