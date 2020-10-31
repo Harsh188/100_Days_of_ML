@@ -301,5 +301,14 @@ Daily log to track my progress on the 100 days of ML code challenge.
 </ul>
 <h3>Day 42 [29/10/20] Boltzmann Machine</h3>
 <ul>
-	<li></li>
+	<li>Learned about:</li>
+	<ul>
+		<li>What Boltzmann Machines are.</li>
+		<li>Use cases for Boltzmann Machines</li>
+		<li>The architecture of a Boltzmann Machine.</li>
+	</ul>
+</ul>
+<h3>Day 43 [31/10/20] Deep Belief Networks</h3>
+<ul>
+	
 </ul>
