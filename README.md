@@ -324,5 +324,6 @@ Daily log to track my progress on the 100 days of ML code challenge.
 		<li>What Autoencoder networks are.</li>
 		<li>How an Autoecoder functions.</li>
 		<li>The components that make up an Autoencoder.</li>
+		<li>Applications of Autoencoders.</li>
 	</ul>
 </ul>
