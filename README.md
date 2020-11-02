@@ -310,5 +310,10 @@ Daily log to track my progress on the 100 days of ML code challenge.
 </ul>
 <h3>Day 43 [31/10/20] Deep Belief Networks</h3>
 <ul>
-	
+	<li>Learned about:</li>
+	<ul>
+		<li>What Deep Belief Networks are.</li>
+		<li>The general architecture of a DBN.</li>
+		<li></li>
+	</ul>
 </ul>
