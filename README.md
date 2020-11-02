@@ -317,3 +317,12 @@ Daily log to track my progress on the 100 days of ML code challenge.
 		<li></li>
 	</ul>
 </ul>
+<h3>Day 44 [02/11/20] Autoencoders</h3>
+<ul>
+	<li>Learned about:</li>
+	<ul>
+		<li>What Autoencoder networks are.</li>
+		<li>How an Autoecoder functions.</li>
+		<li>The components that make up an Autoencoder.</li>
+	</ul>
+</ul>
