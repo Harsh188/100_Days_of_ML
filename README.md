@@ -329,5 +329,6 @@ Daily log to track my progress on the 100 days of ML code challenge.
 </ul>
 <h3>Day 45 [03/11/20] Autoencoders Mini-Proj</h3>
 <ul>
-	
+	<li>Utilized TensorFlow to implement autoencoders.</li>
+	<li>Performed image denoising on the <a href="https://www.kaggle.com/zalando-research/fashionmnist">fasion mnist</a> dataset.</li>
 </ul>
