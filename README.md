@@ -327,3 +327,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 		<li>Applications of Autoencoders.</li>
 	</ul>
 </ul>
+<h3>Day 45 [03/11/20] Autoencoders Mini-Proj</h3>
+<ul>
+	
+</ul>
