@@ -332,3 +332,8 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<li>Utilized TensorFlow to implement autoencoders.</li>
 	<li>Performed image denoising on the <a href="https://www.kaggle.com/zalando-research/fashionmnist">fasion mnist</a> dataset.</li>
 </ul>
+<h3>Day 45 [04/11/20] Autoencoders Mini-Proj cont.</h3>
+<ul>
+	<li>Utilized TensorFlow to implement autoencoders.</li>
+	<li>Performed anomaly detection on the <a href="http://www.timeseriesclassification.com/description.php?Dataset=ECG5000">ECG5000 dataset</a>.</li>
+</ul>
