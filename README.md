@@ -337,3 +337,12 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<li>Utilized TensorFlow to implement autoencoders.</li>
 	<li>Performed anomaly detection on the <a href="http://www.timeseriesclassification.com/description.php?Dataset=ECG5000">ECG5000 dataset</a>.</li>
 </ul>
+<h3>Day 46 [05/11/20] Generative Adversarial Network</h3>
+<ul>
+	<li>Learned about:</li>
+	<ul>
+		<li>What generative adversarial networks are.</li>
+		<li>What GANs are used for.</li>
+		<li>The architecture of a GAN.</li>
+	</ul>
+</ul>
