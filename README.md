@@ -348,5 +348,5 @@ Daily log to track my progress on the 100 days of ML code challenge.
 </ul>
 <h3>Day 47 [06/11/20] Generative Adversarial Network Implementation</h3>
 <ul>
-	
+	<li>Used TensorFlow to implement GANs.</li>
 </ul>
