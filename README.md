@@ -349,4 +349,11 @@ Daily log to track my progress on the 100 days of ML code challenge.
 <h3>Day 47 [06/11/20] Generative Adversarial Network Implementation</h3>
 <ul>
 	<li>Used TensorFlow to implement GANs.</li>
+	<li>Utilized the MNIST dataset for generating handwritten digits</li>
+</ul>
+<h3>Day 48 [07/11/20] Generative Adversarial Network Implementation Cont.</h3>
+<ul>
+	<li>Continuation of the implementation I started yesterday.</li>
+	<li>Wroked on the loss & optimizer.</li>
+	<li>Trained the model.</li>
 </ul>
