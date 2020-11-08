@@ -355,5 +355,8 @@ Daily log to track my progress on the 100 days of ML code challenge.
 <ul>
 	<li>Continuation of the implementation I started yesterday.</li>
 	<li>Wroked on the loss & optimizer.</li>
-	<li>Trained the model.</li>
+</ul>
+<h3>Day 49 [08/11/20] GAN Implementationd cont.</h3>
+<ul>
+	
 </ul>
