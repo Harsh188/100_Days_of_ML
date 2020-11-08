@@ -358,5 +358,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 </ul>
 <h3>Day 49 [08/11/20] GAN Implementationd cont.</h3>
 <ul>
+	<li>Training the model took a lot longer than I was expecting.</li>
+	<li>Trained the model for 50 epochs. Each epoch took around 1.5 min.</li>
 	
 </ul>
