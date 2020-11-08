@@ -360,5 +360,5 @@ Daily log to track my progress on the 100 days of ML code challenge.
 <ul>
 	<li>Training the model took a lot longer than I was expecting.</li>
 	<li>Trained the model for 50 epochs. Each epoch took around 1.5 min.</li>
-	
+	<img src="images/output_ZBwyU6t2Wf3g_0.gif">
 </ul>
