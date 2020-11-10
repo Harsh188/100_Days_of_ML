@@ -362,8 +362,18 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<li>Trained the model for 50 epochs. Each epoch took around 1.5 min.</li>
 	<img src="images/output_ZBwyU6t2Wf3g_0.gif">
 </ul>
-<h3>Day 50 [09/11/20] dddd</h3>
+<h3>Day 50 [09/11/20] fast.ai course</h3>
 <ul>
 	<li>Finished going through all <a href="https://medium.com/cracking-the-data-science-interview/a-gentle-introduction-to-neural-networks-for-machine-learning-d5f3f8987786">The 10 Neural Network Architectures Machine Learning Researchers Need To Learn</a>.</li>
 	<li>Started Lesson 1 of the <a href="https://course.fast.ai/#">fast.ai</a> course.</li>
+</ul>
+<h3>Day 51 [10/11/20] Model Development</h3>
+<ul>
+	<li>Started Lesson 2 of the <a href="https://course.fast.ai/#">fast.ai</a> course.</li>
+	<li>Learned about:</li>
+	<ul>
+		<li>Project plan for model development.</li>
+		<li>How to create datasets.</li>
+		<li>Productionization of models.</li>
+	</ul>
 </ul>
