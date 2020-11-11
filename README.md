@@ -377,3 +377,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 		<li>Productionization of models.</li>
 	</ul>
 </ul>
+<h3>Day 52 [11/11/20]</h3>
+<ul>
+	
+</ul>
