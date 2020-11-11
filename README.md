@@ -377,7 +377,9 @@ Daily log to track my progress on the 100 days of ML code challenge.
 		<li>Productionization of models.</li>
 	</ul>
 </ul>
-<h3>Day 52 [11/11/20]</h3>
+<h3>Day 52 [11/11/20] RecycleNet Project</h3>
 <ul>
-	
+	<li>Working on my research project RecycleNet.</li>
+	<li>Cleaned and preprocessed the images for the dataset.</li>
+	<li>Checkout the entire project at <a href="https://github.com/Zayd-Jamadar/RecycleNet">RecycleNet</a>.</li>
 </ul>
