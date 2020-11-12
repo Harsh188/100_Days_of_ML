@@ -383,3 +383,8 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<li>Cleaned and preprocessed the images for the dataset.</li>
 	<li>Checkout the entire project at <a href="https://github.com/Zayd-Jamadar/RecycleNet">RecycleNet</a>.</li>
 </ul>
+<h3>Day 53 [12/11/20] TensorFlow GPU</h3>
+<ul>
+	<li>Setting up TensorFlow GPU to utilize my RTX 3080.</li>
+	<li>Moved to Ubuntu 18.04 from Ubuntu 20.04 due to a lack of resources online.</li>
+</ul>
