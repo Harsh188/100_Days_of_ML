@@ -384,5 +384,17 @@ Daily log to track my progress on the 100 days of ML code challenge.
 <h3>Day 53 [12/11/20] TensorFlow GPU</h3>
 <ul>
 	<li>Setting up TensorFlow GPU to utilize my RTX 3080.</li>
-	<li>Moved to Ubuntu 18.04 from Ubuntu 20.04 due to a lack of resources online.</li>
+	<li>Installed Docker and created a tensorflow image.</li>
+	<li>Started a container and ran tensorflow code on juptyer using TensorFlow GPU</li>
+</ul>
+<h3>Day 54 [13/11/20] Production and Development</h3>
+<ul>
+	<li>Started Lesson 3 of the <a href="https://course.fast.ai/#">fast.ai</a> course.</li>
+	<li>Learned about:</li>
+	<ul>
+		<li>Data augmentation using the fastai API.</li>
+		<li>How to create notebook apps.</li>
+		<li>Deploying using Binder.</li>
+		<li>Feedback loops and how they can affect models over time.</li>
+	</ul>
 </ul>
