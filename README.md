@@ -75,7 +75,6 @@ Daily log to track my progress on the 100 days of ML code challenge.
 <ul>
 	<li>Finished the Stanford CS299 lecture on <a href="https://www.youtube.com/watch?v=8NYoQiRANpg&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=8&t=0s">Kernels.</a></li>
 	<li>Learned about the complexity difference when using inner product.</li>
-	<!-- <li></li> -->
 </ul>
 <h3>Day 12 [23/09/20] Bias and Variance</h3>
 <ul>
