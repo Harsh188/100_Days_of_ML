@@ -398,3 +398,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 		<li>Feedback loops and how they can affect models over time.</li>
 	</ul>
 </ul>
+<h3>Day 55 [14/11/20] TensorFlow Serving</h3>
+<ul>
+	
+</ul>
