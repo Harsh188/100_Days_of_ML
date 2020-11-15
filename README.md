@@ -405,5 +405,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 </ul>
 <h3>Day 56 [15/11/20] ResNet-50</h3>
 <ul>
+	<li>Worked on my RecycleNet research project.</li>
+	<li>Configured to train ResNet-50 on our custom dataset.</li>
 	
 </ul>
