@@ -403,3 +403,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<li>Learned about deploying a model to a server using the TensorFlow Serving library.</li>
 	<li>Watched Siraj Raval's video on <a href="https://www.youtube.com/watch?v=T_afaArR0E8&t=888s">How to Deploy a Tensorflow Model to Production.</a></li>
 </ul>
+<h3>Day 56 [15/11/20] ResNet-50</h3>
+<ul>
+	
+</ul>
