@@ -407,5 +407,8 @@ Daily log to track my progress on the 100 days of ML code challenge.
 <ul>
 	<li>Worked on my RecycleNet research project.</li>
 	<li>Configured to train ResNet-50 on our custom dataset.</li>
-	
+</ul>
+<h3>Day 57 Stocastic Gradient Descent</h3>
+<ul>
+	<li>Watched lesson 4 of the fastai course on Stochastic Gradient Descent.</li>
 </ul>
