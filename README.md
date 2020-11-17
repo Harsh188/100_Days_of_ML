@@ -414,5 +414,5 @@ Daily log to track my progress on the 100 days of ML code challenge.
 </ul>
 <h3>Day 58 [17/11/20] Stocastic Gradient Descent Cont.</h3>
 <ul>
-	<li></li>
+	<li>Continued watching lesson for of the fastai course on Stochastic Gradient Descent.</li>
 </ul>
