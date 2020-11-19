@@ -416,8 +416,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 <ul>
 	<li>Continued watching lesson for of the fastai course on Stochastic Gradient Descent.</li>
 </ul>
-<h3>Day 59 [19/11/20] Docker Configuration</h3>
+<h3>Day 59 [19/11/20] Chatbot</h3>
 <ul>
-	<li>Finally figured out how to use my RTX 3080 to train models.</li>
 	<li>Started reading about chatbots using neural networks.</li>
 </ul>
