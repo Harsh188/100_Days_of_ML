@@ -419,4 +419,9 @@ Daily log to track my progress on the 100 days of ML code challenge.
 <h3>Day 59 [19/11/20] Chatbot</h3>
 <ul>
 	<li>Started reading about chatbots using neural networks.</li>
+	<li>There are two types of deep learning chatbot models:</li>
+	<ul>
+		<li>Retrieval-based Neural Network</li>
+		<li>Generation-based Neural Network</li>
+	</ul>
 </ul>
