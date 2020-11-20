@@ -425,3 +425,11 @@ Daily log to track my progress on the 100 days of ML code challenge.
 		<li>Generation-based Neural Network</li>
 	</ul>
 </ul>
+<h3>Day 60 [20/11/20] Chatbot research</h3>
+<ul>
+	<li>Read more articles on generation-based neural networks.</li>
+	<li>Revisited sequence to sequence models that use an encoder/decoder architecture.</li>
+	<li></li>
+	<li>Read the article <a href="https://medium.com/botsupply/generative-model-chatbots-e422ab08461e">Generative Model Chatbots</a> which used a seq2seq to train a chatbot using several different datasets.</li>
+	<li></li>
+</ul>
