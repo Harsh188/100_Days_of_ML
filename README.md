@@ -440,5 +440,6 @@ Daily log to track my progress on the 100 days of ML code challenge.
 </ul>
 <h3>Day 61 [23/11/20] Research Paper</h3>
 <ul>
-	
+	<li>Started working on the research.</li>
+	<li>The paper consists of a custom resnet-50 and SVM model.</li>
 </ul>
