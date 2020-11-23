@@ -433,3 +433,12 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<li>Read the article <a href="https://medium.com/botsupply/generative-model-chatbots-e422ab08461e">Generative Model Chatbots</a> which used a seq2seq to train a chatbot using several different datasets.</li>
 	<li></li>
 </ul>
+<h3>Day 61 [21/11/20] DS Exam</h3>
+<ul>
+	<li>Taking time off to study for my data structures midterm!</li>
+	<li>Learned about graphs and their similarities to a representation of a neuron.</li>
+</ul>
+<h3>Day 61 [23/11/20] Research Paper</h3>
+<ul>
+	
+</ul>
