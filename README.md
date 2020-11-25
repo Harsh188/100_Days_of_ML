@@ -438,8 +438,13 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<li>Taking time off to study for my data structures midterm!</li>
 	<li>Learned about graphs and their similarities to a representation of a neuron.</li>
 </ul>
-<h3>Day 61 [23/11/20] Research Paper</h3>
+<h3>Day 62 [23/11/20] Research Paper</h3>
 <ul>
 	<li>Started working on the research.</li>
 	<li>The paper consists of a custom resnet-50 and SVM model.</li>
+</ul>
+<h3>Day 63 [25/11/20] Seq2Seq</h3>
+<ul>
+	<li>Started reading about seq2seq models.</li>
+	<li>Planing on creating a chatbot mini-project soon.</li>
 </ul>
