@@ -448,3 +448,8 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<li>Started reading about seq2seq models.</li>
 	<li>Planing on creating a chatbot mini-project soon.</li>
 </ul>
+<h3>Day 64 [27/11/20] Seq2seq cont.</h3>
+<ul>
+	<li>Read the article <a href="https://www.tensorflow.org/tutorials/text/nmt_with_attention">Neural machine translation with attention</a> written by the TensorFlow team about a seq2seq model.</li>
+	
+</ul>
