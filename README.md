@@ -453,3 +453,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<li>Read the article <a href="https://www.tensorflow.org/tutorials/text/nmt_with_attention">Neural machine translation with attention</a> written by the TensorFlow team about a seq2seq model.</li>
 	
 </ul>
+<h3>Day 65 [29/11/20] ResNet-50 + SVM</h3>
+<ul>
+	<li>Worked on fine tuning a custom ResNet model with my research partner.</li>
+</ul>
