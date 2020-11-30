@@ -457,3 +457,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 <ul>
 	<li>Worked on fine tuning a custom ResNet model with my research partner.</li>
 </ul>
+<h3>Day 66 [30/11/20] Seq2Seq</h3>
+<ul>
+	<li>Started coding Seq2Seq model.</li>
+</ul>
