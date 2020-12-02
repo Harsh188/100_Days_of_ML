@@ -352,9 +352,9 @@ Daily log to track my progress on the 100 days of ML code challenge.
 <h3>Day 48 [07/11/20] Generative Adversarial Network Implementation Cont.</h3>
 <ul>
 	<li>Continuation of the implementation I started yesterday.</li>
-	<li>Wroked on the loss & optimizer.</li>
+	<li>Worked on the loss & optimizer.</li>
 </ul>
-<h3>Day 49 [08/11/20] GAN Implementationd cont.</h3>
+<h3>Day 49 [08/11/20] GAN Implementation cont.</h3>
 <ul>
 	<li>Training the model took a lot longer than I was expecting.</li>
 	<li>Trained the model for 50 epochs. Each epoch took around 1.5 min.</li>
@@ -408,11 +408,11 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<li>Worked on my RecycleNet research project.</li>
 	<li>Configured to train ResNet-50 on our custom dataset.</li>
 </ul>
-<h3>Day 57 [16/11/20] Stocastic Gradient Descent</h3>
+<h3>Day 57 [16/11/20] Stochastic Gradient Descent</h3>
 <ul>
 	<li>Watched lesson 4 of the fastai course on Stochastic Gradient Descent.</li>
 </ul>
-<h3>Day 58 [17/11/20] Stocastic Gradient Descent Cont.</h3>
+<h3>Day 58 [17/11/20] Stochastic Gradient Descent Cont.</h3>
 <ul>
 	<li>Continued watching lesson for of the fastai course on Stochastic Gradient Descent.</li>
 </ul>
@@ -460,4 +460,15 @@ Daily log to track my progress on the 100 days of ML code challenge.
 <h3>Day 66 [30/11/20] Seq2Seq</h3>
 <ul>
 	<li>Started coding Seq2Seq model.</li>
+</ul>
+<h3>Day 67 [1/12/20] Predicting using ResNet-50+SVM</h3>
+<ul>
+	<li>Fine tuned parameters by implementing grid search algorithm for SVM.</li>
+	<li>Used the custom architecture for predicting items from the dataset.</li>
+</ul>
+<h3>Day 68 [2/12/20] Research presentation</h3>
+<ul>
+	<li>My partner and I presented our research project to the panel members.</li>
+	<li>We finished our paper titled Classification of Recyclable Waste Generated in Indian Households.</li>
+	<li>Looking forward to publishing our paper to an IEEE conference.</li>
 </ul>
