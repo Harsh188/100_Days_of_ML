@@ -470,5 +470,9 @@ Daily log to track my progress on the 100 days of ML code challenge.
 <ul>
 	<li>My partner and I presented our research project to the panel members.</li>
 	<li>We finished our paper titled Classification of Recyclable Waste Generated in Indian Households.</li>
-	<li>Looking forward to publishing our paper to an IEEE conference.</li>
+	<li>Looking forward to publishing our paper to an IEEE conference.</li>m
+</ul>
+<h3>Day 69 [3/12/20] NLP</h3>
+<ul>
+	<li>Read articles about the fundamentals of natural language processing.</li>
 </ul>
