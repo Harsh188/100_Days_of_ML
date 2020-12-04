@@ -475,4 +475,10 @@ Daily log to track my progress on the 100 days of ML code challenge.
 <h3>Day 69 [3/12/20] NLP</h3>
 <ul>
 	<li>Read articles about the fundamentals of natural language processing.</li>
+	<li>Learned about the different ways to understand text.</li>
+</ul>
+<h3>Day 70 [4/12/20] Stemming</h3>
+<ul>
+	<li>Started to dive deeper into NLP.</li>
+	<li>Learned about stemming and the applications of stemming.</li>
 </ul>
