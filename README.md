@@ -482,3 +482,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<li>Started to dive deeper into NLP.</li>
 	<li>Learned about stemming and the applications of stemming.</li>
 </ul>
+<h3>Day 71 [5/12/20] Lemmatization</h3>
+<ul>
+	<li></li>
+</ul>
