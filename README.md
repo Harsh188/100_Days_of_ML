@@ -484,5 +484,11 @@ Daily log to track my progress on the 100 days of ML code challenge.
 </ul>
 <h3>Day 71 [5/12/20] Lemmatization</h3>
 <ul>
-	<li></li>
+	<li>Learned the processo of lemmatisation.</li>
+	<li>Explored the difference between lemmatisation and stemming.</li>
+</ul>
+<h3>Day 72 [6/12/20] Recommender Systems</h3>
+<ul>
+	<li>Learned about recommender systems.</li>
+	<li>Read about Neural Collaborative Filtering and it's application in recommender systems.</li>
 </ul>
