@@ -492,3 +492,11 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<li>Learned about recommender systems.</li>
 	<li>Read about Neural Collaborative Filtering and it's application in recommender systems.</li>
 </ul>
+<h3>Day 73 [7/12/20] Optimizers</h3>
+<ul>
+	<li>Started reading about various optimization algorithms for training neural networks.</li>
+</ul>
+<h3>Day 74 [8/12/20] Adam Optimizer</h3>
+<ul>
+	<li>Dove deep into the Adam optimizer.</li>
+</ul>
