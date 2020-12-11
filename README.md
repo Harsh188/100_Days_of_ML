@@ -504,3 +504,8 @@ Daily log to track my progress on the 100 days of ML code challenge.
 <ul>
 	<li></li>
 </ul>
+<h3>Day 76 [10/12/20] </h3>
+<ul>
+	<li></li>
+</ul>
+<h3>Day 77 [11/12/20] </h3>
