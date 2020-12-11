@@ -500,12 +500,15 @@ Daily log to track my progress on the 100 days of ML code challenge.
 <ul>
 	<li>Dove deep into the Adam optimizer.</li>
 </ul>
-<h3>Day 75 [9/12/20] </h3>
+<h3>Day 75 [9/12/20] Momentum Optimizer</h3>
 <ul>
-	<li></li>
+	<li>Read about momentum which helps the gradient descent.</li>
 </ul>
-<h3>Day 76 [10/12/20] </h3>
+<h3>Day 76 [10/12/20] Nesterov Accelerated Gradient</h3>
 <ul>
-	<li></li>
+	<li>Continued reading about optimizers by exploring NAG.</li>
 </ul>
-<h3>Day 77 [11/12/20] </h3>
+<h3>Day 77 [11/12/20] Adadelta</h3>
+<ul>
+	<li>Explored another optimizer which monotonically reduces the learning rate.</li>
+</ul>
