@@ -512,3 +512,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 <ul>
 	<li>Explored another optimizer which monotonically reduces the learning rate.</li>
 </ul>
+<h3>Day 78 [12/12/20] </h3>
+<ul>
+	<li></li>
+</ul>
