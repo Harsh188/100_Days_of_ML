@@ -516,3 +516,4 @@ Daily log to track my progress on the 100 days of ML code challenge.
 <ul>
 	<li>Learned about the Adagrad optimizer which adapts the learning rate to individual features.</li>
 </ul>
+<h3>Day 79 [13/12/20] Cognitive Science</h3>
