@@ -521,3 +521,13 @@ Daily log to track my progress on the 100 days of ML code challenge.
 	<li>Started exploring about the human brain through a neuroscience perspective.</li>
 	<li>Read more about Donald Hoffman's case against reality.</li>
 </ul>
+<h3>Day 80 [14/12/20] Parts of the brain</h3>
+<ul>
+	<li>Started looking at differnt parts of the brain and how they function.</li>
+	<li>Trying to draw the relationship between artificial neurons and a human brain.</li>
+</ul>
+<h3>Day 81 [15/12/20] GCP</h3>
+<ul>
+	<li>Started a tutorial on GCP.</li>
+	<li>Learning how to use thier cloud services for machine learning.</li>
+</ul>
